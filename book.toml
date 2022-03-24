@@ -1,0 +1,12 @@
+[book]
+authors = ["one2blame"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Project Management Professional (PMP) Certification Exam Prep"
+
+[output.html]
+preferred-dark-theme = "ayu"
+default-theme = "ayu"
+fold.enable = true
+fold.level = 2
