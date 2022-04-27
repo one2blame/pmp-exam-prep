@@ -35,3 +35,6 @@
     - [Change](./project-management-principles/change.md)
   - [Project management domains](./project-management-domains/project-management-domains.md)
     - [Stakeholder performance domain](./project-management-domains/stakeholder-performance-domain.md)
+    - [Team performance domain](./project-management-domains/team-performance-domain.md)
+    - [Life cycle performance domain](./project-management-domains/life-cycle-performance-domain.md)
+    - [Planning performance domain](./project-management-domains/planning-performance-domain.md)
